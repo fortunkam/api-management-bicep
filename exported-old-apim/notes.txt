@@ -1,0 +1,1 @@
+This folder contains the IaC for a long deleted exported APIM instance, it is included for reference only.
